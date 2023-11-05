@@ -133,6 +133,9 @@ exclude:
   - README.md
   - CNAME
 
+include: 
+  - ".well-known"
+
 collections:
   pages:
     output: true
