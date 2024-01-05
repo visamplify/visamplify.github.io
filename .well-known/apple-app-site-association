@@ -3,9 +3,7 @@
     "apps": [],
     "details": [
       {
-        // Example: "QQ57RJ5UTD.com.acme.myapp"
         "appID": "Y6BZCH62SA.com.visamplify.app",
-        // All paths that should support redirecting
         "paths": ["/*"]
       }
     ]
