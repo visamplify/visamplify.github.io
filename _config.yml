@@ -35,25 +35,25 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : #GitHub Pages Jekyll Theme
-    description                           : #Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : #magic
+  - title                                 : Posts
+    description                           : Share your visa and immigration-related questions, experiences, and tips with the Visamplify community. Whether you're seeking advice or offering insights, posting allows you to engage with others anonymously, fostering a supportive environment for knowledge exchange.
+    fontawesome_icon_name                 : magic
     
-  - title                                 : #iPhone Device Preview
-    description                           : #Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : #mobile
+  - title                                 : Visa Cafes
+    description                           : Join public or private Visa Cafes, interactive group chats tailored to specific visa and immigration topics or regions. Engage in real-time conversations, exchange information, and build connections with fellow community members.
+    fontawesome_icon_name                 : mobile
 
-  - title                                 : #Video Support
-    description                           : #Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : #play-circle
+  - title                                 : Blogs
+    description                           : Stay informed and up-to-date with the latest news, updates, and insights on visa and immigration topics through curated blogs within the Visamplify app. Access informative articles, expert opinions, and relevant resources to enhance your understanding of visa processes and immigration policies.
+    fontawesome_icon_name                 : play-circle
 
-  - title                                 : #Automatic Icon and Metadata
-    description                           : #Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : #sync
+  - title                                 : Important Links
+    description                           : Access a curated collection of immigration-related resources and add your own important links to contribute to the community's knowledge base. Whether it's official government websites, educational resources, or reputable organizations, the Important Links feature serves as a comprehensive repository for valuable information relevant to visa and immigration processes.
+    fontawesome_icon_name                 : sync
 
-  - title                                 : #Easy to Tweak
-    description                           : #Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #adjust
+  - title                                 : Data Center
+    description                           : Explore and share links to data sources, statistics, and reports related to immigration trends, policies, and demographics. The Data Center feature empowers users to access factual information and insights to better understand the dynamics of immigration in various regions and make informed decisions about their visa and immigration plans.
+    fontawesome_icon_name                 : adjust
   
   - title                                 : #Feature List
     description                           : #Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
