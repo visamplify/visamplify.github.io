@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Visamplify                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Visamplify is an anonymous social media platform designed to provide a one-stop solution for all your visa and immigration related questions and needs
+app_description                           : Introducing the ultimate app for migrants worldwide! Connect anonymously on our social platform dedicated solely to immigration. Share stories, discuss issues, and find support within our vibrant community. Explore public and private groups tailored to your needs. Access immigration blogs and resources all in one place. Say goodbye to endless scrolling on Facebook, WhatsApp, Reddit, or Telegram—find all your immigration answers right here. Let's build the largest, most inclusive community for anyone looking to migrate or visit countries. Join us and embark on your journey hassle-free!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -37,23 +37,23 @@ features                                  :
 
   - title                                 : Posts
     description                           : Share your visa and immigration-related questions, experiences, and tips with the Visamplify community. Whether you're seeking advice or offering insights, posting allows you to engage with others anonymously, fostering a supportive environment for knowledge exchange.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : list
     
   - title                                 : Visa Cafes
     description                           : Join public or private Visa Cafes, interactive group chats tailored to specific visa and immigration topics or regions. Engage in real-time conversations, exchange information, and build connections with fellow community members.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : user-group
 
   - title                                 : Blogs
     description                           : Stay informed and up-to-date with the latest news, updates, and insights on visa and immigration topics through curated blogs within the Visamplify app. Access informative articles, expert opinions, and relevant resources to enhance your understanding of visa processes and immigration policies.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : newspaper
 
   - title                                 : Important Links
     description                           : Access a curated collection of immigration-related resources and add your own important links to contribute to the community's knowledge base. Whether it's official government websites, educational resources, or reputable organizations, the Important Links feature serves as a comprehensive repository for valuable information relevant to visa and immigration processes.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : link
 
   - title                                 : Data Center
     description                           : Explore and share links to data sources, statistics, and reports related to immigration trends, policies, and demographics. The Data Center feature empowers users to access factual information and insights to better understand the dynamics of immigration in various regions and make informed decisions about their visa and immigration plans.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : database
   
   - title                                 : #Feature List
     description                           : #Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
@@ -86,7 +86,7 @@ cover_image                               : assets/headerimage.png              
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : blue                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
