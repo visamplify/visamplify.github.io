@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Visamplify                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Introducing the ultimate app for migrants! Connect anonymously, share stories, and find support. Join public and private groups, access immigration blogs—all in one place. Say goodbye to endless scrolling on Facebook, Whatsapp, Telegram or Reddit—find all your immigration answers here!
+app_description                           : Introducing the ultimate migrant hub! Connect anonymously, share stories, find support. Join public and private groups, access immigration blogs—all in one place. Say goodbye to endless scrolling on Facebook, Whatsapp or Reddit—find your immigration answers here!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
